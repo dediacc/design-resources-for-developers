@@ -200,7 +200,7 @@ Create mockups of devices and other products
 ## HTML & CSS Templates
 
 Websites that offer free beautiful website templates and themes of all types
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| Website| Description |
 | ----------------------- | ------------------ |
 | [HTML5Up](https://html5up.net/)| Very modern, unique responsive HTML5/CSS3 themes |
 | [Templatemo](https://templatemo.com/)| Minimal, resume, gallery themes and more |
@@ -225,7 +225,7 @@ Websites that offer free beautiful website templates and themes of all types
 ## CSS Frameworks
 
 CSS/UI frameworks to help build great looking websites and applications
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| Website | Description |
 | ----------------------- | ------------------ |
 | [Tailwind CSS](https://tailwindcss.com/)| Low level, utility-first framework |
 | [Bootstrap](https://getbootstrap.com/)| Popular UI framework with tons of components that use both CSS and JS |
